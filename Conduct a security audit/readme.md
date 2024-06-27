@@ -2,7 +2,7 @@
 
 ## Activity Overview
 
-### Part One: Internal Security Audit
+### Internal Security Audit
 
 I conducted an internal security audit
 
