@@ -1,8 +1,13 @@
-The in this folder were developed during the fourth course in the Google Cybersecurity Certificate.
+# Google Cybersecurity Certificate - Course 4
 
-In this course, I explored computing skills that are used on-the-job as a cybersecurity analyst. First, using Linux, an operating system commonly used by cybersecurity professionals. For example, using Linux command line through the Bash shell to navigate and manage the file system and authenticate users. Then, SQL to communicate with a database. 
+The files in this directory were developed during the fourth course in the Google Cybersecurity Certificate.
 
-By the end of this course, the skills learned were: 
+In this course, I explored computing skills that are used on-the-job as a cybersecurity analyst. First, using Linux, an operating system commonly used by cybersecurity professionals. For example, using Linux command line through the Bash shell to navigate and manage the file system and authenticate users. Then, SQL to communicate with a database.
+
+## Skills Learned
+
+By the end of this course, the skills learned were:
+
 - Explain the relationship between operating systems, applications, and hardware.
 - Compare a graphical user interface to a command line interface.
 - Identify the unique features of common Linux distributions.
