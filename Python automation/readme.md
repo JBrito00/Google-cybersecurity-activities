@@ -1,7 +1,7 @@
 # Update file through Python automation
 
 ## Description
-It as presented a scenario that as a security professional working at a
+It was presented a scenario that as a security professional working at a
 health care company one of the tasks is to update a file that identifies
 employees who can have access to restricted data. I used the skills learned
 during the course to automate this task using Python.  
